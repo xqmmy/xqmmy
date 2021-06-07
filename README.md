@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqmmy)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,TypeScript,CSS,GLSL,Rust)](https://github.com/anuraghazra/github-readme-stats)
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=xqmmy&show_icons=true&theme=radical)-->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xqmmy&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xqmmy&repo=xqmmy.github.io)](https://github.com/xqmmy/xqmmy.github.io)
