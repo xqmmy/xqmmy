@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqmmy)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![xqmmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqmmy&count_private=true) -->
-![xqmmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqmmy&hide=contribs,prs)
-![xqmmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqmmy&show_icons=true)
+<!-- ![xqmmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqmmy&hide=contribs,prs) -->
+![xqmmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqmmy&show_icons=true&hide=contribs,prs)
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xqmmy)](https://github.com/anuraghazra/github-readme-stats) -->
